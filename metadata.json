@@ -1,0 +1,6 @@
+{
+  "name": "Alder & Mercer Properties",
+  "description": "Minimalist architectural real estate advisory with curated property listings, price range filtering, and private consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
